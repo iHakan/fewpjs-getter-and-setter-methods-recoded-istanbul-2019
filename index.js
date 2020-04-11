@@ -19,7 +19,5 @@ class Circle{
     this.radius = newDiameter/2;
   }
   
-  set radius(newRadius){
-    this.radius = newRadius;
-  }
+  
 }
